@@ -8,14 +8,11 @@ wetter.com##.tipsy-inner-fixed
 wetter.com##.tipsy
 wetter.com##.werbung
 wetter.com##.cityweather
-wetter.com##[class*="werbung"]
-wetter.com##[id*="werbung"]
-wetter.com###google_ads_frame1
 wetter.com###pictureNewsWithRightText
 wetter.com###taboola-widget
 wetter.com##div[data-wettersocial]
 wetter.com##div[data-module="forecast-layout1-additional"]
-wetter.com##ins
+! wetter.com##ins
 ! wetter.com##.lity
 ! wetter.com##.cw-3-2-1--grid
 wetter.com##footer
