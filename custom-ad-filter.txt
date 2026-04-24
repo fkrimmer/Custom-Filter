@@ -1,4 +1,4 @@
-! Title: Custom Wetter Fix
+! Title: My Custom Filter
 ! ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 wetter.com##.tipsy-inner-fixed
 wetter.com##.tipsy
