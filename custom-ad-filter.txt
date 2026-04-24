@@ -7,6 +7,26 @@
 wetter.com##.werbung
 wetter.com##.werbung:remove()
 
+! --- wetter.com Tracking & Metrics ---
+||wetter.com/metrics/*$xhr,script
+
+! --- Werbenetzwerke & Empfehlungen ---
+||cdn.taboola.com^
+||a.teads.tv^
+||rumcdn.geoedge.be^
+
+! --- Analyse & Tracking ---
+||survey.survicate.com^
+||connect.facebook.net/en_US/fbevents.js
+||dmp.theadex.com^
+
+! --- App-Promotion & Push ---
+||cdn.adjust.com^
+||cdn.pushwoosh.com^
+
+! --- Bot-Erkennung & Fingerprinting ---
+||openfpcdn.io^
+
 ! Protonmail
 mail.proton.me##[class*="promotion"]
 
