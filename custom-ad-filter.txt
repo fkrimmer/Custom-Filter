@@ -22,3 +22,4 @@ gemini.google.com##[class*="upsell"]
 ! Reddit
 reddit.com##.promotedlink
 reddit.com##shreddit-dynamic-ad-link:remove()
+reddit.com##aside
