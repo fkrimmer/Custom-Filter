@@ -15,3 +15,6 @@ wetter.com##[id*="werbung"]:remove()
 
 ! Protonmail
 mail.proton.me##[class*="promotion"]
+
+! Gemini
+gemini.google.com##[class*="upsell"]
