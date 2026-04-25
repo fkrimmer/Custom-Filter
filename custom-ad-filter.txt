@@ -6,9 +6,17 @@
 ##a[href*="share=x"]
 
 ! Wetter.de
-wetter.com##div:has(> div > .guj-ad-slot)
-wetter.com##div:has(> div > .base-ad-slot)
-wetter.com##div:has(> div > .outbrain-ad-slot)
+! --- 1. Ebene: Direktes Elternteil ---
+wetter.com##div:has(> [class*="-ad-slot"])
+
+! --- 2. Ebene: Großelternteil ---
+wetter.com##div:has(> div > [class*="-ad-slot"])
+
+! --- 3. Ebene: Ur-Großelternteil ---
+wetter.com##div:has(> div > div > [class*="-ad-slot"])
+
+! --- 4. Ebene: Ur-Ur-Großelternteil ---
+wetter.com##div:has(> div > div > div > [class*="-ad-slot"])
 
 ! Brass Wiesn
 brasswiesn.de###section_2004480458
