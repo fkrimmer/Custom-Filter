@@ -6,7 +6,7 @@
 ##a[href*="share=x"]
 
 ! Brass Wiesn
-brasswiesn.de###section_2004480458
+brasswiesn.de##.slider-wrapper
 brasswiesn.de##.wt-cli-cookie-bar-container
 brasswiesn.de##.cli-modal
 brasswiesn.de###cookie-law-info-again
