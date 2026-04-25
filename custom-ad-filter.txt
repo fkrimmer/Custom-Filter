@@ -7,7 +7,7 @@
 
 ! Wetter.de
 wetter.de##div:has(> div > div > [class*="ad-slot"])
-wetter.com##div:has(> div > [class*="ad-slot"])
+! wetter.com##div:has(> div > [class*="ad-slot"])
 
 ! Protonmail
 mail.proton.me##[class*="promotion"]
