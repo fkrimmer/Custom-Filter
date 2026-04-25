@@ -6,7 +6,7 @@
 ##a[href*="share=x"]
 
 ! Wetter.de
-wetter.de##div>.gujAd
+wetter.de##.base-ad-slot
 
 ! Protonmail
 mail.proton.me##[class*="promotion"]
