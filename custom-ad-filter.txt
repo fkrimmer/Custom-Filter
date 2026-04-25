@@ -5,16 +5,6 @@
 ##a[href*="twitter.com"]
 ##a[href*="share=x"]
 
-! Wetter.de
-! --- 1. Ebene: Direktes Elternteil ---
-wetter.de##div:has(> [class*="-ad-slot"])
-
-! --- 3. Ebene: Ur-Großelternteil ---
-! wetter.de##div:has(> div > div > [class*="-ad-slot"])
-
-! --- 4. Ebene: Ur-Ur-Großelternteil ---
-! wetter.de##div:has(> div > div > div > [class*="-ad-slot"])
-
 ! Brass Wiesn
 brasswiesn.de###section_2004480458
 brasswiesn.de##.wt-cli-cookie-bar-container
