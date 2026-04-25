@@ -6,7 +6,7 @@
 ##a[href*="share=x"]
 
 ! Wetter.de
-wetter.com##div:has(> div > [class*="ad-slot"])
+wetter.com##div:has(> [class*="ad"])
 
 ! Brass Wiesn
 brasswiesn.de###section_2004480458
