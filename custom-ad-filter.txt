@@ -20,9 +20,12 @@
 ##.GoogleActiveViewElement
 ##[id*="google"]
 ##[class*="google"]
-##aside
+##[class*="aside"]
 ##[class*="lity"]
 ##[id*="taboola"]
+##[class*="taboola"]
+##[id*="placeholder"]
+##[class*="placeholder"]
 
 ! seo-suedwest
 seo-suedwest.de##.fnet-panel-childs
