@@ -13,16 +13,16 @@
 ##[id*="EyeAble"]
 
 ! Wetter.com
-###noir-square
-###asoch-exit-api-0
-###mys-overlay
-##[amp4ads]
+###forecast-navigation-line
+###.werbung
+##.ad-flex
+###local-information
 ##.GoogleActiveViewElement
-##amp-analytics
-##amp-ad-exit
-##.ns-web50-l-noir-square
-##.ns-web50-e-0
-##.abgc
+##[id*="google"]
+##[class*="google"]
+##aside
+##[class*="lity"]
+##[id*="taboola"]
 
 ! seo-suedwest
 seo-suedwest.de##.fnet-panel-childs
