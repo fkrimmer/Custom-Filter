@@ -12,6 +12,18 @@
 ##[id*="eyeAble"]
 ##[id*="EyeAble"]
 
+! Wetter.com
+###noir-square
+###asoch-exit-api-0
+###mys-overlay
+##[amp4ads]
+##.GoogleActiveViewElement
+##amp-analytics
+##amp-ad-exit
+##.ns-web50-l-noir-square
+##.ns-web50-e-0
+##.abgc
+
 ! seo-suedwest
 seo-suedwest.de##.fnet-panel-childs
 seo-suedwest.de##[class*="moduletable"]
