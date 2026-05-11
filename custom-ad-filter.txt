@@ -12,21 +12,6 @@
 ##[id*="eyeAble"]
 ##[id*="EyeAble"]
 
-! Wetter.com
-###forecast-navigation-line:style(display: none !important;)
-###.werbung:style(display: none !important;)
-##.ad-flex:style(display: none !important;)
-###local-information:style(display: none !important;)
-##.GoogleActiveViewElement:style(display: none !important;)
-##[id*="google"]:style(display: none !important;)
-##[class*="google"]:style(display: none !important;)
-##[class*="aside"]:style(display: none !important;)
-##[class*="lity"]:style(display: none !important;)
-##[id*="taboola"]:style(display: none !important;)
-##[class*="taboola"]:style(display: none !important;)
-##[id*="placeholder"]:style(display: none !important;)
-##[class*="placeholder"]:style(display: none !important;)
-
 ! seo-suedwest
 seo-suedwest.de##.fnet-panel-childs
 seo-suedwest.de##[class*="moduletable"]
